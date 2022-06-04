@@ -31,7 +31,6 @@ namespace SysPatrimonioo.Controllers
                                                      nomepatrimonio = p.nomepatrimonio,
                                                      nomecategoria = c.descricaocategoria,
                                                      nomelocal = l.nomelocal,
-                                                     descricaqopatrimonio = p.descricaopatrimonio,
                                                      valorpatrimonio = p.valorpatrimonio,
                                                      nomefornecedor = f.nomefornecedor
                                                  }).ToList();
@@ -55,7 +54,6 @@ namespace SysPatrimonioo.Controllers
                                       id = p.id,
                                       nomepatrimonio = p.nomepatrimonio,
                                       nomecategoria = c.descricaocategoria,
-                                      descricaqopatrimonio = p.descricaopatrimonio,
                                       valorpatrimonio = p.valorpatrimonio,
                                       nomelocal = l.nomelocal,
                                       nomefornecedor = f.nomefornecedor
@@ -111,7 +109,6 @@ namespace SysPatrimonioo.Controllers
                                     id = p.id,
                                     nomepatrimonio = p.nomepatrimonio,
                                     nomecategoria = c.descricaocategoria,
-                                    descricaqopatrimonio = p.descricaopatrimonio,
                                     valorpatrimonio = p.valorpatrimonio,
                                     numetiqueta = p.numetiqueta,
                                     numnf = p.numnf,
@@ -184,7 +181,6 @@ namespace SysPatrimonioo.Controllers
                                     id = p.id,
                                     nomepatrimonio = p.nomepatrimonio,
                                     nomecategoria = c.descricaocategoria,
-                                    descricaqopatrimonio = p.descricaopatrimonio,
                                     valorpatrimonio = p.valorpatrimonio,
                                     numetiqueta = p.numetiqueta,
                                     numnf = p.numnf,

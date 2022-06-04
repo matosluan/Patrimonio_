@@ -15,7 +15,6 @@
         public int numnf { get; set; }
         public string numserie { get; set; }
         public string situacao { get; set; }
-        public int idfornecedor { get; set; }
         public DateTime? datagarantia { get; set; }
         public string numetiqueta { get; set; }
     }

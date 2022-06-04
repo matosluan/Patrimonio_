@@ -35,26 +35,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/DbPatrimonios/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJQYXRyaW1vbmlvc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/DbPatrimonios/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJQYXRyaW1vbmlvc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/DbPatrimonios/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJQYXRyaW1vbmlvc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/DbPatrimonios/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJQYXRyaW1vbmlvc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/DbPatrimonios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJQYXRyaW1vbmlvc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -121,6 +101,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Locals/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Shared/Error.cshtml]

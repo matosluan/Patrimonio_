@@ -23,19 +23,12 @@
                 <span asp-validation-for="nomepatrimonio" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="descricaopatrimonio" class="control-label"></label>
-                <input asp-for="descricaopatrimonio" class="form-control" />
-                <span asp-validation-for="descricaopatrimonio" class="text-danger"></span>
-            </div>
-            <div class="form-group">
                 <label asp-for="valorpatrimonio" class="control-label"></label>
                 <input asp-for="valorpatrimonio" class="form-control" />
                 <span asp-validation-for="valorpatrimonio" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="idcategoria" class="control-label"></label>
-                <input asp-for="idcategoria" class="form-control" />
-                <span asp-validation-for="idcategoria" class="text-danger"></span>
+                <select asp-items=@ViewBag.categoria nome="nomecategoria" asp-for="idcategoria" class="form-control"></select>
             </div>
             <div class="form-group">
                 <label asp-for="iddepartamento" class="control-label"></label>
@@ -43,9 +36,7 @@
                 <span asp-validation-for="iddepartamento" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="idlocal" class="control-label"></label>
-                <input asp-for="idlocal" class="form-control" />
-                <span asp-validation-for="idlocal" class="text-danger"></span>
+               <select asp-items=@ViewBag.local nome="nomelocal" asp-for="idlocal" class="form-control"></select>
             </div>
             <div class="form-group">
                 <label asp-for="marcamodelo" class="control-label"></label>
@@ -78,9 +69,7 @@
                 <span asp-validation-for="situacao" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="idfornecedor" class="control-label"></label>
-                <input asp-for="idfornecedor" class="form-control" />
-                <span asp-validation-for="idfornecedor" class="text-danger"></span>
+                 <select asp-items=@ViewBag.fornecedor nome="nomefornecedor" asp-for="idfornecedor" class="form-control"></select>
             </div>
             <div class="form-group">
                 <label asp-for="datagarantia" class="control-label"></label>
