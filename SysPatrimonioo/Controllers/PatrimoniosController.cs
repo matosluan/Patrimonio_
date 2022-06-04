@@ -31,6 +31,8 @@ namespace SysPatrimonioo.Controllers
                                                      nomepatrimonio = p.nomepatrimonio,
                                                      nomecategoria = c.descricaocategoria,
                                                      nomelocal = l.nomelocal,
+                                                     descricaqopatrimonio = p.descricaopatrimonio,
+                                                     valorpatrimonio = p.valorpatrimonio,
                                                      nomefornecedor = f.nomefornecedor
                                                  }).ToList();
             return View(dtoPatrimonio);
@@ -53,6 +55,8 @@ namespace SysPatrimonioo.Controllers
                                       id = p.id,
                                       nomepatrimonio = p.nomepatrimonio,
                                       nomecategoria = c.descricaocategoria,
+                                      descricaqopatrimonio = p.descricaopatrimonio,
+                                      valorpatrimonio = p.valorpatrimonio,
                                       nomelocal = l.nomelocal,
                                       nomefornecedor = f.nomefornecedor
                                   }).FirstOrDefault();
@@ -107,6 +111,16 @@ namespace SysPatrimonioo.Controllers
                                     id = p.id,
                                     nomepatrimonio = p.nomepatrimonio,
                                     nomecategoria = c.descricaocategoria,
+                                    descricaqopatrimonio = p.descricaopatrimonio,
+                                    valorpatrimonio = p.valorpatrimonio,
+                                    numetiqueta = p.numetiqueta,
+                                    numnf = p.numnf,
+                                    numserie = p.numserie,
+                                    dataaquisicao = p.dataaquisicao,
+                                    databaixa = p.databaixa,
+                                    datagarantia = p.datagarantia,
+                                    marcamodelo = p.marcamodelo,
+                                    situacao = p.situacao,
                                     nomelocal = l.nomelocal,
                                     nomefornecedor = f.nomefornecedor
                                 }).FirstOrDefault();
@@ -170,6 +184,16 @@ namespace SysPatrimonioo.Controllers
                                     id = p.id,
                                     nomepatrimonio = p.nomepatrimonio,
                                     nomecategoria = c.descricaocategoria,
+                                    descricaqopatrimonio = p.descricaopatrimonio,
+                                    valorpatrimonio = p.valorpatrimonio,
+                                    numetiqueta = p.numetiqueta,
+                                    numnf = p.numnf,
+                                    numserie = p.numserie,
+                                    dataaquisicao = p.dataaquisicao,
+                                    databaixa = p.databaixa,
+                                    datagarantia = p.datagarantia,
+                                    marcamodelo = p.marcamodelo,
+                                    situacao = p.situacao,
                                     nomelocal = l.nomelocal,
                                     nomefornecedor = f.nomefornecedor
                                 }).FirstOrDefault();

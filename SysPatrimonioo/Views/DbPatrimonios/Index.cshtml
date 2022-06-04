@@ -1,4 +1,4 @@
-﻿@model IEnumerable<SysPatrimonioo.Models.DbPatrimonio>
+﻿@model IEnumerable<SysPatrimonioo.Models.DtoPatrimonio>
 
 @{
     ViewData["Title"] = "Index";
@@ -13,9 +13,6 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.numetiqueta)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.nomepatrimonio)
             </th>
             <th>
@@ -25,16 +22,10 @@
                 @Html.DisplayNameFor(model => model.valorpatrimonio)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.idcategoria)
+                @Html.DisplayNameFor(model => model.nomecategoria)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.iddepartamento)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.idlocal)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.marcamodelo)
+                @Html.DisplayNameFor(model => model.nomelocal)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.dataaquisicao)
@@ -52,7 +43,7 @@
                 @Html.DisplayNameFor(model => model.situacao)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.idfornecedor)
+                @Html.DisplayNameFor(model => model.nomefornecedor)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.datagarantia)
@@ -76,13 +67,10 @@
                 @Html.DisplayFor(modelItem => item.valorpatrimonio)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.idcategoria)
+                @Html.DisplayFor(modelItem => item.nomecategoria)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.iddepartamento)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.idlocal)
+                @Html.DisplayFor(modelItem => item.nomelocal)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.marcamodelo)
@@ -103,7 +91,7 @@
                 @Html.DisplayFor(modelItem => item.situacao)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.idfornecedor)
+                @Html.DisplayFor(modelItem => item.nomefornecedor)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.datagarantia)

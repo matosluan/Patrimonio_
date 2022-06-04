@@ -1,4 +1,4 @@
-﻿@model SysPatrimonioo.Models.DbPatrimonio
+﻿@model SysPatrimonioo.Models.DtoPatrimonio
 
 @{
     ViewData["Title"] = "Details";
@@ -35,22 +35,16 @@
             @Html.DisplayFor(model => model.valorpatrimonio)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.idcategoria)
+            @Html.DisplayNameFor(model => model.nomecategoria)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.idcategoria)
+            @Html.DisplayFor(model => model.nomecategoria)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.iddepartamento)
+            @Html.DisplayNameFor(model => model.nomelocal)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.iddepartamento)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.idlocal)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.idlocal)
+            @Html.DisplayFor(model => model.nomelocal)
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.marcamodelo)

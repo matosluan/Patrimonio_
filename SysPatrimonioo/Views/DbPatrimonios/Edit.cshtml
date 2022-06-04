@@ -1,4 +1,4 @@
-﻿@model SysPatrimonioo.Models.DbPatrimonio
+﻿@model SysPatrimonioo.Models.DtoPatrimonio
 
 @{
     ViewData["Title"] = "Edit";
@@ -34,19 +34,14 @@
                 <span asp-validation-for="valorpatrimonio" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="idcategoria" class="control-label"></label>
-                <input asp-for="idcategoria" class="form-control" />
-                <span asp-validation-for="idcategoria" class="text-danger"></span>
+                <label asp-for="nomecategoria" class="control-label"></label>
+                <input asp-for="nomecategoria" class="form-control" />
+                <span asp-validation-for="nomecategoria" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="iddepartamento" class="control-label"></label>
-                <input asp-for="iddepartamento" class="form-control" />
-                <span asp-validation-for="iddepartamento" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="idlocal" class="control-label"></label>
-                <input asp-for="idlocal" class="form-control" />
-                <span asp-validation-for="idlocal" class="text-danger"></span>
+                <label asp-for="nomelocal" class="control-label"></label>
+                <input asp-for="nomelocal" class="form-control" />
+                <span asp-validation-for="nomelocal" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="marcamodelo" class="control-label"></label>
