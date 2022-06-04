@@ -6,6 +6,7 @@ namespace SysPatrimonioo.Models
     public class DbLocal
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int id { get; set; }
         public string nomelocal { get; set; }
         public string descricaolocal { get; set; }

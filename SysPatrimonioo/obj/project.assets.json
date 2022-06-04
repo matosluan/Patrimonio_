@@ -10151,11 +10151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\lmsilva7\\source\\repos\\SysPatrimonioo\\SysPatrimonioo\\SysPatrimonioo.csproj",
+      "projectUniqueName": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
       "projectName": "SysPatrimonioo",
-      "projectPath": "D:\\Users\\lmsilva7\\source\\repos\\SysPatrimonioo\\SysPatrimonioo\\SysPatrimonioo.csproj",
+      "projectPath": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
       "packagesPath": "D:\\Users\\lmsilva7\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\lmsilva7\\source\\repos\\SysPatrimonioo\\SysPatrimonioo\\obj\\",
+      "outputPath": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

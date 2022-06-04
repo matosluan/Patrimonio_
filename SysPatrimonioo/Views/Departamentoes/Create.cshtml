@@ -7,6 +7,11 @@
 <h1>Create</h1>
 
 <h4>Departamento</h4>
+
+<div class = "form-group"> 
+
+
+</div>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -23,9 +28,8 @@
                 <span asp-validation-for="descricaodepartamento" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="idlocal" class="control-label"></label>
-                <input asp-for="idlocal" class="form-control" />
-                <span asp-validation-for="idlocal" class="text-danger"></span>
+              
+                <select asp-items=@ViewBag.local2 nome="nomelocal" asp-for="idlocal" class="form-control"></select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-dark" />

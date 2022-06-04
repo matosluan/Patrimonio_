@@ -21,9 +21,17 @@ namespace SysPatrimonioo.Controllers
         // GET: Departamentoes
         public async Task<IActionResult> Index()
         {
-              return _context.departamento != null ? 
-                          View(await _context.departamento.ToListAsync()) :
-                          Problem("Entity set 'Context.departamento'  is null.");
+            List<DtoDepartamento> dtoDepartamentos = (from d in _context.departamento
+                                                      join l in _context.local on d.idlocal equals l.id
+                                                      select new DtoDepartamento
+                                                      {
+                                                          id = d.id,
+                                                          nomedepartamento = d.nomedepartamento,
+                                                          descricaodepartamento = d.descricaodepartamento,
+                                                          nomelocal = l.nomelocal
+                                                      }).ToList();
+            return View(dtoDepartamentos);
+        
         }
 
         // GET: Departamentoes/Details/5
@@ -34,8 +42,16 @@ namespace SysPatrimonioo.Controllers
                 return NotFound();
             }
 
-            var dbDepartamento = await _context.departamento
-                .FirstOrDefaultAsync(m => m.id == id);
+            var dbDepartamento =
+                (from d in _context.departamento
+                 join l in _context.local on d.idlocal equals l.id
+                 select new DtoDepartamento
+                 {
+                     id = d.id,
+                     nomedepartamento = d.nomedepartamento,
+                     descricaodepartamento = d.descricaodepartamento,
+                     nomelocal = l.nomelocal
+                 }).FirstOrDefault();
             if (dbDepartamento == null)
             {
                 return NotFound();
@@ -47,6 +63,7 @@ namespace SysPatrimonioo.Controllers
         // GET: Departamentoes/Create
         public IActionResult Create()
         {
+            ViewBag.local2 = new SelectList(_context.local, "id", "nomelocal");
             return View();
         }
 
@@ -74,7 +91,15 @@ namespace SysPatrimonioo.Controllers
                 return NotFound();
             }
 
-            var dbDepartamento = await _context.departamento.FindAsync(id);
+            var dbDepartamento = (from d in _context.departamento
+                                  join l in _context.local on d.idlocal equals l.id
+                                  select new DtoDepartamento
+                                  {
+                                      id = d.id,
+                                      nomedepartamento = d.nomedepartamento,
+                                      descricaodepartamento = d.descricaodepartamento,
+                                      nomelocal = l.nomelocal
+                                  }).FirstOrDefault();
             if (dbDepartamento == null)
             {
                 return NotFound();

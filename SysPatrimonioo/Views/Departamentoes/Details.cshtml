@@ -1,4 +1,4 @@
-﻿@model SysPatrimonioo.Models.DbDepartamento
+﻿@model SysPatrimonioo.Models.DtoDepartamento
 
 @{
     ViewData["Title"] = "Details";
@@ -23,14 +23,14 @@
             @Html.DisplayFor(model => model.descricaodepartamento)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.idlocal)
+            @Html.DisplayNameFor(model => model.nomelocal)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.idlocal)
+            @Html.DisplayFor(model => model.nomelocal)
         </dd>
     </dl>
 </div>
 <div>
     <a asp-action="Edit" asp-route-id="@Model?.id">Edit</a> |
-    <a asp-action="Index " class ="btn btn-light">Voltar</a>
+    <a asp-action="Index" class ="btn btn-light">Voltar</a>
 </div>

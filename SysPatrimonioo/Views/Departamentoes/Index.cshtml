@@ -1,4 +1,4 @@
-﻿@model IEnumerable<SysPatrimonioo.Models.DbDepartamento>
+﻿@model IEnumerable<SysPatrimonioo.Models.DtoDepartamento>
 
 @{
     ViewData["Title"] = "Index";
@@ -19,7 +19,7 @@
                 @Html.DisplayNameFor(model => model.descricaodepartamento)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.idlocal)
+                @Html.DisplayNameFor(model => model.nomelocal)
             </th>
             <th></th>
         </tr>
@@ -34,7 +34,7 @@
                 @Html.DisplayFor(modelItem => item.descricaodepartamento)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.idlocal)
+                @Html.DisplayFor(modelItem => item.nomelocal)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.id"  class ="btn btn-primary">Edit</a> |

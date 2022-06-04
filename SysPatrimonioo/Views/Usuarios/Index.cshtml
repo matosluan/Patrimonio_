@@ -7,6 +7,14 @@
 <h1>Usuário</h1>
 
 <p>
+    @using (Html.BeginForm())
+    {
+        <text>Nome</text>@Html.DropDownList("nome", new SelectList(ViewBag.nome))
+        <text>Login</text>@Html.DropDownList("login", new SelectList(ViewBag.login))
+        <input type="submit" value = "Procurar"/>
+    }
+</p>
+<p>
     <a asp-action="Create"  class ="btn btn-primary">Novo</a>
 </p>
 <table class="table table-bordered table-dark">

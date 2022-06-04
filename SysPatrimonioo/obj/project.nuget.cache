@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w1bbq6J53W3TQV6z7PYyef7KHMuhZjHC74+o1jrEQCr08bG1o7xH9ITxUVXRMuNKWkYnpctaiNXsSrFBsH5LCA==",
+  "dgSpecHash": "yt8szcfzBMOfz4muQIFpzQmv9a0bZ9s+JPe99b7RIC4tRr88ZVcA9gVsCQcmi2UguFdXUkswL7SonZlcw/rfKw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\lmsilva7\\source\\repos\\SysPatrimonioo\\SysPatrimonioo\\SysPatrimonioo.csproj",
+  "projectFilePath": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\lmsilva7\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "D:\\Users\\lmsilva7\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

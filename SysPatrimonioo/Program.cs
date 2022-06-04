@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddEntityFrameworkNpgsql().AddDbContext<Context>
     (options =>
     options.UseNpgsql
-    ("server=localhost;Port=5432;user id=postgres; password=univel;database=Patrimonio"));
+    ("server=localhost;Port=5432;user id=postgres; password=univel;database=Patrimonio True"));
 
 var app = builder.Build();
 
