@@ -8,157 +8,157 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SysPatrimonioo
 build_property.RootNamespace = SysPatrimonioo
-build_property.ProjectDir = D:\Users\lmsilva7\Desktop\Github\Patrimonio_\SysPatrimonioo\
+build_property.ProjectDir = C:\Users\Luan\Desktop\GitHub\Patrimonio_\SysPatrimonioo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Users\lmsilva7\Desktop\Github\Patrimonio_\SysPatrimonioo
+build_property.MSBuildProjectDirectory = C:\Users\Luan\Desktop\GitHub\Patrimonio_\SysPatrimonioo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Categorias/Create.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Categorias/Delete.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Categorias/Details.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Categorias/Edit.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Categorias/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Create.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Delete.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Details.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Edit.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Departamentoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Create.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Delete.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Details.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Edit.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Fornecedors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Home/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Home/Privacy.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Locals/Create.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Locals/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Locals/Delete.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Locals/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Locals/Details.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Locals/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Locals/Edit.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Locals/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Locals/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Locals/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Create.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Delete.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Details.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Edit.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Patrimonios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cmltb25pb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Shared/Error.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Usuarios/Create.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Usuarios/Delete.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Usuarios/Details.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Usuarios/Edit.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Usuarios/Index.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/_ViewImports.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/_ViewStart.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/lmsilva7/Desktop/Github/Patrimonio_/SysPatrimonioo/Views/Shared/_Layout.cshtml]
+[C:/Users/Luan/Desktop/GitHub/Patrimonio_/SysPatrimonioo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x98l6d68jp

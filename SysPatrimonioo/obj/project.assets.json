@@ -10145,24 +10145,19 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\lmsilva7\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Luan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
+      "projectUniqueName": "C:\\Users\\Luan\\Desktop\\GitHub\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
       "projectName": "SysPatrimonioo",
-      "projectPath": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
-      "packagesPath": "D:\\Users\\lmsilva7\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\lmsilva7\\Desktop\\Github\\Patrimonio_\\SysPatrimonioo\\obj\\",
+      "projectPath": "C:\\Users\\Luan\\Desktop\\GitHub\\Patrimonio_\\SysPatrimonioo\\SysPatrimonioo.csproj",
+      "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luan\\Desktop\\GitHub\\Patrimonio_\\SysPatrimonioo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "D:\\Users\\lmsilva7\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Luan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10237,7 +10232,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
